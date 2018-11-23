@@ -14,9 +14,12 @@ require 'mechanize'
 
 1). First, clone this repo to your laptop or computer using terminal (command line): 
 `git clone https://github.com/VovkaZy/moviechooser.git`
+
 2). After this, change the directory to that, wich contain app files: 
 `cd dirpath/moviechooser`
+
 3). Run it from terminal (command line): 
 `ruby movie.rb`
+
 4). Enjoy it.
 
