@@ -18,7 +18,7 @@ require 'mechanize'
 2). After this, change the directory to that, wich contain app files: 
 `cd dirpath/moviechooser/`
 
-3) Use bundler to install dependencies:
+3). Use bundler to install dependencies:
 `bundle install`
 
 4). Run it from terminal (command line): 
