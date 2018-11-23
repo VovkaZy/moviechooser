@@ -18,8 +18,11 @@ require 'mechanize'
 2). After this, change the directory to that, wich contain app files: 
 `cd dirpath/moviechooser/`
 
-3). Run it from terminal (command line): 
+3) Use bundler to install dependencies:
+`bundle install`
+
+4). Run it from terminal (command line): 
 `ruby movie.rb`
 
-4). Enjoy it.
+5). Enjoy it.
 
