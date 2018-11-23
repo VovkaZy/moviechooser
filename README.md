@@ -2,7 +2,7 @@
 
 __Movie Chooser__ is a *console* app for choosing random movie to watch from [IMDb chart - > TOP250](https://www.imdb.com/chart/top)
 
-Used [mechanize gem](https://github.com/sparklemotion/mechanize) for automating interaction with websites
+Used [mechanize gem](https://github.com/sparklemotion/mechanize) for automating interaction with website
 
 ver.: 0.9
 
