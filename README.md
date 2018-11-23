@@ -16,7 +16,7 @@ require 'mechanize'
 `git clone https://github.com/VovkaZy/moviechooser.git`
 
 2). After this, change the directory to that, wich contain app files: 
-`cd dirpath/moviechooser`
+`cd dirpath/moviechooser/`
 
 3). Run it from terminal (command line): 
 `ruby movie.rb`
